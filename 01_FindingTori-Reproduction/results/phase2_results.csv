@@ -1,0 +1,7 @@
+source,method,ndcg,rf_mean,rf_std,NDCG,RF accuracy
+paper,Hist 25 bin,0.783,0.744,0.058,0.7830,0.744 ± 0.058
+paper,Hist 124 bin,0.777,0.722,0.054,0.7770,0.722 ± 0.054
+paper,CNN region-supervised,0.792,0.634,0.055,0.7920,0.634 ± 0.055
+paper,CNN self-supervised,0.853,0.848,0.039,0.8530,0.848 ± 0.039
+ours-trained,CNN region-supervised,0.7943217412594261,0.6563636363636364,0.05359782899266793,0.7943,0.656 ± 0.054
+ours-trained,CNN self-supervised,0.8533316035883143,0.8296969696969695,0.04729214830278639,0.8533,0.830 ± 0.047
