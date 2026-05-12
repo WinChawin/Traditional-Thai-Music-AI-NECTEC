@@ -1,0 +1,13 @@
+pandas>=2.0
+pyarrow>=14.0
+numpy>=1.26
+scikit-learn>=1.4
+xgboost>=2.0
+torch>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+umap-learn>=0.5
+shap>=0.44
+jupyter>=1.0
+tqdm>=4.66
+openpyxl>=3.1

@@ -1,0 +1,9 @@
+variant,facet_added,acc_mean,acc_std,delta_from_prev
+"V0
+note_base only",note_base,0.4818,0.1025,0.0
+"V1
++ octave",+ octave,0.6337,0.0901,0.1519
+"V2
++ is_lukabad",+ is_lukabad,0.6516,0.0803,0.0179
+"V3
++ has_paren (full)",+ has_paren,0.6621,0.0967,0.0105

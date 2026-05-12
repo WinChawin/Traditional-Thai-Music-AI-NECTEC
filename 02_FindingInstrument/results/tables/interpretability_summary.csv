@@ -1,0 +1,5 @@
+section,key_finding
+Section 2: Feature importance,"Top 3 features: sustain_ratio, low_oct_ratio, mid_oct_ratio"
+Section 3: Confusion,Hardest piece: โหมโรงมหาฤกษ์; Easiest: สาธุการ; Top confused: ระนาดเอก → ขลุ่ย-ปี่
+Section 4: Attention,"Top attention category: ขลุ่ย-ปี่: high_oct, ฆ้องวงใหญ่: low_oct, ซออู้: high_oct, ระนาดเอก: low_oct"
+Section 6: Top-activating,"Avg piece diversity in top-5: bilstm=2.5/5, ssl_a=2.0/5, supcon_inst=3.0/5"

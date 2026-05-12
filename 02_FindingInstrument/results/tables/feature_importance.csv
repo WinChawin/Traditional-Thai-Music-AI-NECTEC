@@ -1,0 +1,8 @@
+feature,rf_builtin,permutation_mean,permutation_std
+sustain_ratio,0.2281,0.3521,0.0131
+low_oct_ratio,0.1675,0.3298,0.0117
+mid_oct_ratio,0.177,0.2027,0.0128
+transition_entropy,0.2105,0.1723,0.0088
+high_oct_ratio,0.152,0.0921,0.0069
+lukabad_density,0.0546,0.0741,0.0064
+paren_ratio,0.0103,0.0084,0.0011

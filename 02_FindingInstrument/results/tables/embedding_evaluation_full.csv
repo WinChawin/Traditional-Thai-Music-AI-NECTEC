@@ -1,0 +1,9 @@
+scheme,paradigm,dim,rf_acc_mean,rf_acc_std,knn_acc_mean,knn_acc_std,ndcg,ndcg_std
+handcrafted_7d_scaled,feature engineering,7,0.549,0.0724,0.523,0.093,0.8209,0.0
+handcrafted_7d (proper),feature engineering,7,0.5487,0.0723,0.5206,0.1012,0.8209,0.0
+cnn_256d,supervised CE,256,0.6672,0.1031,0.6752,0.097,0.811,0.0022
+bilstm_256d,supervised CE,256,0.6737,0.0734,0.6824,0.0677,0.8091,0.0014
+tbc_128d,supervised CE,128,0.6521,0.0713,0.6411,0.0762,0.8022,0.0048
+ssl_A_256d,true SSL,256,0.6508,0.0832,0.629,0.0862,0.8117,0.0023
+ssl_B_256d,true SSL,256,0.4403,0.1002,0.3742,0.0701,0.7662,0.0004
+supcon_inst_256d,supervised contrastive,256,0.6971,0.0733,0.6833,0.0808,0.8265,0.0009
